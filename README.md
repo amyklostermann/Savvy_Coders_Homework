@@ -24,8 +24,8 @@ Pizza Place Homework
 
 ~~9. Add, commit, and push your JS file to your GitHub repo.~~
 
-10. Send your TA a link to your GitHub Homework repo when finished.
+~~10. Send your TA a link to your GitHub Homework repo when finished.~~
 
 **_Bonus Challenge_**
 
-11. Use a loop to print all of the even numbers from 1 to numberOfToppings (or 10)
+~~11. Use a loop to print all of the even numbers from 1 to numberOfToppings (or 10)~~
