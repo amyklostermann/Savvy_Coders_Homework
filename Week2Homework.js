@@ -1,6 +1,6 @@
 const pizzaPlace = "Mimi's Pizza Pie";
 
-let numberOfToppings = 2;
+let numberOfToppings = 10;
 
 console.log(typeof pizzaPlace)
 
@@ -13,3 +13,8 @@ if (numberOfToppings >= 10) {
 } else {
     console.log("We choose to offer quality over quantity.");
 }
+
+
+for (let numberOfToppings =0; numberOfToppings<=10; numberOfToppings+=2) {
+    console.log(numberOfToppings);
+} 
