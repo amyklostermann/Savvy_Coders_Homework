@@ -1,6 +1,6 @@
 const pizzaPlace = "Mimi's Pizza Pie";
 
-let numberOfToppings = 10;
+let numberOfToppings = 15;
 
 console.log(typeof pizzaPlace)
 
@@ -15,6 +15,12 @@ if (numberOfToppings >= 10) {
 }
 
 
-for (let numberOfToppings =0; numberOfToppings<=10; numberOfToppings+=2) {
-    console.log(numberOfToppings);
-} 
+for (count = 0; count<=numberOfToppings; count+=2) {
+    console.log(count);
+  }
+
+for (let i=1; i<=numberOfToppings; i++){
+    if (i % 2 === 0){
+        console.log(i);
+    }
+}
