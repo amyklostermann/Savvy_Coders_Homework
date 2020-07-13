@@ -1,0 +1,37 @@
+/* h2:border */
+h2 {
+    border: .5px solid black;
+}
+
+/* :padding */
+div {
+    padding: 50px;
+}
+
+/* :margin */
+div {
+    margin: 100 px;
+}
+
+/* :hover */
+li:hover {
+    color: darkblue;
+}
+
+/* :ol */
+ol {
+  color: #B22222;
+}
+
+/* :index-h3 Class */
+.index-h3 {
+    font-style: italic;
+} 
+
+/* :directory-id ID */
+#directory-id {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+
